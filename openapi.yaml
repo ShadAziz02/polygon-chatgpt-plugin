@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: Access real-time trade data, RSI, VWAP, and MACD analytics using the Polygon.io API.
 servers:
-  - url: https://your-deployed-url.onrender.com
+  - url: - url: https://polygon-chatgpt-plugin.onrender.com
 paths:
   /trade-analytics/{ticker}:
     get:
